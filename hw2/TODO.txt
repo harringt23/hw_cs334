@@ -1,0 +1,2 @@
+// figure out how to download the file since it's so large 
+SHA algorithm will return lowercase / use 'toupper' C function for comparison
